@@ -79,7 +79,7 @@ int main(){
     leeArchivo(mapaHash);
 
     do{
-        cout << "\n(Teclee 0 cuando desee salir de la función).\nIngrese la dirección IP cuya fan-out desea consultar: ";
+        cout << "\n(Teclee 0 cuando desee salir de la función).\nIngrese la dirección IP cuyo resumen desea consultar: ";
 
         cin >> ip;
 
